@@ -1,0 +1,65 @@
+[
+    {
+        "nome": "amanda",
+        "sobrenome": "oliveira",
+        "data_nascimento": "15/06/1982",
+        "cpf": "159.357.852-36",
+        "telefone": "(+55) 11 98568-8877",
+        "alergia": "não",
+        "remedio_alergia": "-"
+    },
+    {
+        "nome": "arthur",
+        "sobrenome": "catira",
+        "data_nascimento": "14/06/1998",
+        "cpf": "159.268.357-48",
+        "telefone": "(+55) 11 94563-7958",
+        "alergia": "nao",
+        "remedio_alergia": "-"
+    },
+    {
+        "nome": "arthur",
+        "sobrenome": "oliveira",
+        "data_nascimento": "15/08/2000",
+        "cpf": "159.357.864-11",
+        "telefone": "(+55) 11 96587-4225",
+        "alergia": "nao",
+        "remedio_alergia": "-"
+    },
+    {
+        "nome": "maria",
+        "sobrenome": "oliveira",
+        "data_nascimento": "15/06/1996",
+        "cpf": "325.684.159-36",
+        "telefone": "(+55) 11 96587-2265",
+        "alergia": "não",
+        "remedio_alergia": "-"
+    },
+    {
+        "nome": "mariana",
+        "sobrenome": "souza",
+        "data_nascimento": "14/05/1992",
+        "cpf": "159.357.862-25",
+        "telefone": "(+55) 11 98765-4321",
+        "alergia": "sim",
+        "remedio_alergia": "dipirona"
+    },
+    {
+        "nome": "carlos",
+        "sobrenome": "souza",
+        "data_nascimento": "28/11/1985",
+        "cpf": "987.569.428-35",
+        "telefone": "(+55) 21 99876-1234",
+        "alergia": "não",
+        "remedio_alergia": "-"
+    },
+    {
+        "nome": "fernanda",
+        "sobrenome": "lima",
+        "data_nascimento": "03/09/2001",
+        "cpf": "456.258.357-26",
+        "telefone": "(+55) 11 96582-3475",
+        "alergia": "sim",
+        "remedio_alergia": "amoxicilina"
+    }
+]
